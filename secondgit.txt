@@ -1,8 +1,0 @@
-hello world
-<<<<<<< HEAD
-branch first making
-=======
-
-
-두번째 브런치가 향함
->>>>>>> second
